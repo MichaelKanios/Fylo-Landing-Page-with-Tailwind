@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap');
+/*    f
+
+      font-family: 'Raleway', sans-serif;*/
+
+.Raleway{
+  font-family: 'Raleway', sans-serif;
+}
+
+.Open{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.back{
+ background-image: url("images/bg-curve-desktop.svg");
+ background-size: cover;
+}
+
+.color{
+  background-color: #f8f8fe;
+}
+.color_text{
+  color:hsl(170, 45%, 43%);
+}
+.color_blue{
+  background-color: hsl(238, 22%, 44%);
+}
+.color_dark{
+  background-color: hsl(243, 87%, 12%);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
